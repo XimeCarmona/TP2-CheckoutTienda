@@ -1,0 +1,15 @@
+export const CheckoutColors = {
+  background: '#F9F9F9',
+  card: '#FFFFFF',
+  text: '#222222',
+  muted: '#9B9B9B',
+  line: '#E5E5E5',
+  primary: '#222222',
+  accent: '#DB3022',
+  chip: '#F0F0F0',
+  chipSelected: '#222222',
+  success: '#2AA952',
+  visa: '#1A1F71',
+  mastercard: '#EB001B',
+  otras: '#2E2E2E',
+};

@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "CheckoutTienda",
+    "slug": "CheckoutTienda",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "checkouttienda",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
